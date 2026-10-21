@@ -1,0 +1,64 @@
+# Garagem em Pauta
+
+> Guias, comparativos e reviews de acessórios e peças automotivas, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Comparativos
+- [5 aces. de motos e quadriciclos até R$ 50: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/aces-de-motos-e-quadriciclos-ate-50/)
+- [4 acessórios para moto até R$ 120: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/acessorios-para-moto-ate-120/)
+- [5 ferramentas manuais até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/ferramentas-manuais-ate-40/)
+- [5 manutenção e limpeza do veículo até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/manutencao-e-limpeza-do-veiculo-ate-40/)
+- [5 peças e acabamento até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/pecas-e-acabamento-ate-40/)
+
+## Guias
+- [Como escolher aces. de motos e quadriciclos: o que olhar na ficha antes de gastar (de R$ 20,80 a R$ 213,30)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-aces-de-motos-e-quadriciclos/)
+- [Como escolher acessório para moto: o que olhar na ficha antes de gastar (de R$ 56,80 a R$ 501,90)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-acessorio-para-moto/)
+- [Como escolher ferramenta manual: o que olhar na ficha antes de gastar (de R$ 19,80 a R$ 69,99)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-ferramenta-manual/)
+- [Como escolher item de manutenção: o que olhar na ficha antes de gastar (de R$ 19,99 a R$ 87,90)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-item-de-manutencao/)
+- [Como escolher espelhos retrovisores: o que olhar na ficha antes de gastar (de R$ 22,97 a R$ 98,01)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-espelhos-retrovisores/)
+
+## Reviews
+- [Bolha Parabrisa Frontal Fumê Sahara 300 2024 Em: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/bolha-parabrisa-frontal-fume-sahara-300-2024-em-7413ca/)
+- [Capa Cobrir Moto Couro Impermeável Protetora Sol Chuva: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/capa-cobrir-moto-couro-impermeavel-protetora-sol-chuva-412636/)
+- [Capa De Raios Bike Moto Bicicleta Cadeira De: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/capa-de-raios-bike-moto-bicicleta-cadeira-de-fec5ff/)
+- [Capa De Raios Protetor Para Motos Bike Cores: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/capa-de-raios-protetor-para-motos-bike-cores-fb2290/)
+- [Kit Protetor De Painel E Comandos Para Scooter: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/kit-protetor-de-painel-e-comandos-para-scooter-19173b/)
+- [Mochila Bag Motoboy Impermeável Delivery Reforçada: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/mochila-bag-motoboy-impermeavel-delivery-reforcada-36c4fd/)
+- [Par Peso Pesinho Pcx 150 Para Guidao Oco: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/par-peso-pesinho-pcx-150-para-guidao-oco-740c27/)
+- [Rampa Dobrável 1,5m Para Carregar Motos Trilha Cor: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/rampa-dobravel-1-5m-para-carregar-motos-trilha-cor-dd3c9b/)
+- [Alarme Para Motos Duoblock Pro350 G8 Universal Pósitron em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/alarme-para-motos-duoblock-pro350-g8-universal-positron-31a87d/)
+- [Alforge Bolsa Mala Universal De Tanque Da Moto: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/alforge-bolsa-mala-universal-de-tanque-da-moto-3d37eb/)
+- [BAULETO STONED TRACKER 35L PRETO: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/bauleto-stoned-tracker-35l-preto-baa9e7/)
+- [Bolsa de Tanque para Moto Com Ímã, Impermeável: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/bolsa-de-tanque-para-moto-com-ima-impermeavel-4e338e/)
+- [Capacete Couro Coquinho Pro Tork Custom Bike Moto: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/capacete-couro-coquinho-pro-tork-custom-bike-moto-a6bd6a/)
+- [Luva X11 Blackout Moto Motoqueiro Motociclista Motoboy Cor: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/luva-x11-blackout-moto-motoqueiro-motociclista-motoboy-cor-9900af/)
+- [Pneu Maggion Dianteiro 275/18 Cg Titan Ybr Winner: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/pneu-maggion-dianteiro-275-18-cg-titan-ybr-winner-3bbfdf/)
+- [Pneu traseiro Pirelli Sport Demon 140/70-17 H em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/pneu-traseiro-pirelli-sport-demon-140-70-17-h-9c9e65/)
+- [Chave De Roda 19mm Tipo L Universal Com em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/chave-de-roda-19mm-tipo-l-universal-com-1931e7/)
+- [Chave De Roda Alongável Telescópica 17/19/21/23mm Universal: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/chave-de-roda-alongavel-telescopica-17-19-21-23mm-universal-f9c12c/)
+- [Chave De Roda Cruz 17 19 21 23mm: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/chave-de-roda-cruz-17-19-21-23mm-f71654/)
+- [Chave De Roda Cruz Estrela 4 Bocas 17mm: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/chave-de-roda-cruz-estrela-4-bocas-17mm-aafeff/)
+- [Chave Grifo Multifuncional 8 em 1 de Aço: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/chave-grifo-multifuncional-8-em-1-de-aco-b18edc/)
+- [Chave Hidráulica Multifuncional 8 1 Pia Torneira 3: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/chave-hidraulica-multifuncional-8-1-pia-torneira-3-6fead9/)
+- [Jogo Chave Allen Longa Hexagonal 1.5 mm a: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/jogo-chave-allen-longa-hexagonal-1-5-mm-a-c6619b/)
+- [Jogo Chaves Fixas Tramontina Basic Corpo Em Aço: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/jogo-chaves-fixas-tramontina-basic-corpo-em-aco-eed788/)
+- [3 Câmera Wifi Automotiva Veicular Carro Com Hd: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/3-camera-wifi-automotiva-veicular-carro-com-hd-79d52a/)
+- [Aditivo Pronto Uso Para Radiador Paraflu Bio Orgânico: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/aditivo-pronto-uso-para-radiador-paraflu-bio-organico-bcc4d3/)
+- [Capa moto couro PROTEGE Impermeável cor Preto G: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/capa-moto-couro-protege-impermeavel-cor-preto-g-ea4b2b/)
+- [Câmera De Re Automotiva 8 Leds Hd Infravermelho em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/camera-de-re-automotiva-8-leds-hd-infravermelho-2c3899/)
+- [Limpador De Para Brisa Dianteiro Palheta Original Bosch: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/limpador-de-para-brisa-dianteiro-palheta-original-bosch-c9b615/)
+- [Revitalizador De Plástico Automotivo Matrix Cera Moto E: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/revitalizador-de-plastico-automotivo-matrix-cera-moto-e-7bb475/)
+- [Sintra Fast 500ml Vonixx Limpador Painel Limpeza Interna em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/sintra-fast-500ml-vonixx-limpador-painel-limpeza-interna-6a98fd/)
+- [Óleo de Motor Lubrax Semissintético 15W-40 API SL: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/oleo-de-motor-lubrax-semissintetico-15w-40-api-sl-a8ab7a/)
+- [Antena Corta Pipa Moto Bicicleta Retrátil Aço Inox em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/antena-corta-pipa-moto-bicicleta-retratil-aco-inox-ce6dbb/)
+- [Jogo Tapete De Borracha Personalizado Chevrolet + Lixeira: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/jogo-tapete-de-borracha-personalizado-chevrolet-lixeira-bf3ed7/)
+- [Jogo Tapete Personalizado Carro Borracha Volkswagen Bordado em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/jogo-tapete-personalizado-carro-borracha-volkswagen-bordado-5fe8ec/)
+- [Kit Super Led Techone 12v 24v H1 H3: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/kit-super-led-techone-12v-24v-h1-h3-5e9913/)
+- [Ponteira Escapamento Ponta Curva Esportiva Inox Capa Tuning em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/ponteira-escapamento-ponta-curva-esportiva-inox-capa-tuning-e7c738/)
+- [Ponteira Universal Escapamento Cromada Esportivo Acessorios em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/ponteira-universal-escapamento-cromada-esportivo-acessorios-dcbb02/)
+- [Retrovisor Bmw Gs F800 Rebaixado Haste Curta Média: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/retrovisor-bmw-gs-f800-rebaixado-haste-curta-media-2e919c/)
+- [Retrovisor Kawasaki Z400 Rebaixado Haste Curta Média Honda: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/retrovisor-kawasaki-z400-rebaixado-haste-curta-media-honda-84ede2/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/sobre/)
