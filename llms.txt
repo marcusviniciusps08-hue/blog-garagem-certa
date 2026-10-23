@@ -1,19 +1,20 @@
 # Garagem em Pauta
 
-> Guias, comparativos e reviews de acessórios e peças automotivas, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de acessórios e peças automotivas, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 aces. de motos e quadriciclos até R$ 50: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/aces-de-motos-e-quadriciclos-ate-50/)
-- [4 acessórios para moto até R$ 120: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/acessorios-para-moto-ate-120/)
-- [5 ferramentas manuais até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/ferramentas-manuais-ate-40/)
-- [5 manutenção e limpeza do veículo até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/manutencao-e-limpeza-do-veiculo-ate-40/)
-- [5 peças e acabamento até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/pecas-e-acabamento-ate-40/)
+- [5 aces. de motos e quadriciclos até R$ 50: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/aces-de-motos-e-quadriciclos-ate-50/)
+- [4 acessórios para moto até R$ 120: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/acessorios-para-moto-ate-120/)
+- [5 ferramentas manuais até R$ 30: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/ferramentas-manuais-ate-30/)
+- [5 manutenção e limpeza do veículo até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/manutencao-e-limpeza-do-veiculo-ate-40/)
+- [3 outros produtos até R$ 28: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/outros-produtos-ate-28/)
+- [5 peças e acabamento até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/pecas-e-acabamento-ate-40/)
 
 ## Guias
 - [Como escolher aces. de motos e quadriciclos: o que olhar na ficha antes de gastar (de R$ 20,80 a R$ 213,30)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-aces-de-motos-e-quadriciclos/)
-- [Como escolher acessório para moto: o que olhar na ficha antes de gastar (de R$ 56,80 a R$ 501,90)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-acessorio-para-moto/)
+- [Como escolher acessório para moto: o que olhar na ficha antes de gastar (de R$ 56,80 a R$ 502,75)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-acessorio-para-moto/)
 - [Como escolher ferramenta manual: o que olhar na ficha antes de gastar (de R$ 19,80 a R$ 69,99)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-ferramenta-manual/)
 - [Como escolher item de manutenção: o que olhar na ficha antes de gastar (de R$ 19,99 a R$ 87,90)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-item-de-manutencao/)
 - [Como escolher espelhos retrovisores: o que olhar na ficha antes de gastar (de R$ 22,97 a R$ 98,01)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-espelhos-retrovisores/)
@@ -51,6 +52,9 @@ Contém links de afiliado Mercado Livre.
 - [Revitalizador De Plástico Automotivo Matrix Cera Moto E: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/revitalizador-de-plastico-automotivo-matrix-cera-moto-e-7bb475/)
 - [Sintra Fast 500ml Vonixx Limpador Painel Limpeza Interna em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/sintra-fast-500ml-vonixx-limpador-painel-limpeza-interna-6a98fd/)
 - [Óleo de Motor Lubrax Semissintético 15W-40 API SL: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/oleo-de-motor-lubrax-semissintetico-15w-40-api-sl-a8ab7a/)
+- [1, 2 ou 4 Capa De Pano Para em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/1-2-ou-4-capa-de-pano-para-deaf8b/)
+- [5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/5-10-20-pecas-pano-absorvente-anti-oleo-para-cozinha-9562f9/)
+- [Suporte Celular Para-brisa Super Fixador Para Painel Carro: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/suporte-celular-para-brisa-super-fixador-para-painel-carro-089b2c/)
 - [Antena Corta Pipa Moto Bicicleta Retrátil Aço Inox em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/antena-corta-pipa-moto-bicicleta-retratil-aco-inox-ce6dbb/)
 - [Jogo Tapete De Borracha Personalizado Chevrolet + Lixeira: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/jogo-tapete-de-borracha-personalizado-chevrolet-lixeira-bf3ed7/)
 - [Jogo Tapete Personalizado Carro Borracha Volkswagen Bordado em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/jogo-tapete-personalizado-carro-borracha-volkswagen-bordado-5fe8ec/)
