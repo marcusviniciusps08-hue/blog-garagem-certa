@@ -5,12 +5,12 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 acessórios para moto até R$ 120: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/acessorios-para-moto-ate-120/)
-- [4 ferramentas manuais até R$ 40: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/ferramentas-manuais-ate-40/)
-- [3 manutenção e limpeza do veículo até R$ 30: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/manutencao-e-limpeza-do-veiculo-ate-30/)
+- [4 acessórios para moto até R$ 120: comparativo com preços de 22/11](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/acessorios-para-moto-ate-120/)
+- [4 ferramentas manuais até R$ 40: comparativo com preços de 22/11](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/ferramentas-manuais-ate-40/)
+- [3 manutenção e limpeza do veículo até R$ 30: comparativo com preços de 22/11](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/top/manutencao-e-limpeza-do-veiculo-ate-30/)
 
 ## Guias
-- [Como escolher acessório para moto: o que olhar na ficha antes de gastar (de R$ 65,77 a R$ 503,90)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-acessorio-para-moto/)
+- [Como escolher acessório para moto: o que olhar na ficha antes de gastar (de R$ 65,97 a R$ 503,90)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-acessorio-para-moto/)
 - [Como escolher ferramenta manual: o que olhar na ficha antes de gastar (de R$ 19,90 a R$ 72)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-ferramenta-manual/)
 - [Como escolher item de manutenção: o que olhar na ficha antes de gastar (de R$ 19,99 a R$ 59,90)](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/guia/como-escolher-item-de-manutencao/)
 
@@ -33,6 +33,7 @@ Contém links de afiliado Mercado Livre.
 - [Câmera De Re Automotiva 8 Leds Hd Infravermelho em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/camera-de-re-automotiva-8-leds-hd-infravermelho-2c3899/)
 - [Revitalizador De Plástico Automotivo Matrix Cera Moto E: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/revitalizador-de-plastico-automotivo-matrix-cera-moto-e-7bb475/)
 - [Sintra Fast 500ml Vonixx Limpador Painel Limpeza Interna em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/sintra-fast-500ml-vonixx-limpador-painel-limpeza-interna-6a98fd/)
+- [Óleo de Motor Lubrax Semissintético 15W-40 API SL: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/review/oleo-de-motor-lubrax-semissintetico-15w-40-api-sl-a8ab7a/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-garagem-certa/sobre/)
